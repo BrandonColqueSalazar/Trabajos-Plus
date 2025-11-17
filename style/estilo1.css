@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 0 15px;
+  color: #222;
+  background-color: #fafafa;
+  text-align: center;
+}
